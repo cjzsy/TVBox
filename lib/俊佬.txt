@@ -1,5 +1,5 @@
 {
-  "spider": "https://github.com/cjzsy/TVBox/blob/main/jar/top98.jar",
+  "spider": "https://github.com/cjzsy/TVBox/raw/main/jar/top98.jar",
   "lives": [
     {
       "group": "redirect",
