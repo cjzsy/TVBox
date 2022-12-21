@@ -48,7 +48,7 @@
 {"key":"csp_xml_ck","name":"🎀CK资源","type":0,"api":"https://ckzy.me/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":0,"categories":["伦理片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","悬疑片","记录片","犯罪片","奇幻片","电视剧","国产剧","欧美剧","日韩剧","港台剧"]},
 {"key":"csp_XYQBiu_虎牙直播","name":"🐯虎牙┃直播","type":3,"api":"XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.githubusercontent.com/cjzsy/TVBox/main/MaooXB2/hy.json"},
 
-{"key":"csp_MaooXB2_斗鱼","name":"🐟斗鱼┃直播","type":3,"api":"csp_MaooXB2","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://github.com/cjzsy/TVBox/raw/main/MaooXB2/斗鱼.json"},
+{"key":"csp_MaooXB2_斗鱼","name":"🐟斗鱼┃直播","type":3,"api":"csp_MaooXB2","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://github.com/cjzsy/TVBox/raw/main/MaooXB2/%E6%96%97%E9%B1%BC.json"},
 {"key":"csp_xp_酷奇mv","name":"🎸酷奇MV","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.iqiq.io/liu673cn/box/main/sub/MeowXP/酷奇MV.json"},
 {"key":"csp_QB_17kan","name":"⚽17看球","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.iqiq.io/liu673cn/box/main/sub/ext/17看球.json"},
 {"key":"csp_xp_球迷直播","name":"🏀JRS看球","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/cjzsy/TVBox/main/MaooXP/dj%E7%9C%8B%E7%90%83.json"},
