@@ -170,6 +170,46 @@
 			"filterable": 1
 		},
 		{
+		"key": "py_huya",
+		"name": "🐯虎牙（PY）",
+		"type": 3,
+		"api": "py_huya",
+		"searchable": 0,
+		"quickSearch": 0,
+		"filterable": 1,
+		"ext": "https://gitlab.com/duomv/duo/-/raw/main/json/pyhuya.py"
+	},
+  {
+    "key":"csp_XYQBiu_虎牙直播",
+    "name":"🐯虎牙直播",
+    "type":3,
+    "api":"XYQBiu",
+    "searchable":0,
+    "quickSearch":0,
+    "filterable":0,
+    "ext":"https://gitlab.com/duomv/duo/-/raw/main/json/%E8%99%8E%E7%89%99.json"
+    },
+ {
+		"key": "py_douyu",
+		"name": "🦈斗鱼（PY）",
+		"type": 3,
+		"api": "py_douyu",
+		"searchable": 0,
+		"quickSearch": 0,
+		"filterable": 1,
+		"ext": "https://gitlab.com/duomv/duo/-/raw/main/json/pydouyu.py"
+	},
+ {
+      "key": "csp_biubiu_斗鱼",
+      "name": "🦈斗鱼XBB",
+      "type": 3,
+      "api": "csp_XBiubiu",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://gitlab.com/duomv/duo/-/raw/main/json/%E6%96%97%E9%B1%BC.json"
+    },
+		{
 			"key": "csp_Anime1",
 			"name": "日本动漫(爬虫)",
 			"type": 3,
