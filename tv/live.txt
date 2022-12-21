@@ -2,6 +2,7 @@
 
 🇨🇳｜央视频道,#genre#
 
+CCTV-1 综合,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225618/index.m3u8
 CCTV-1 综合,http://a.xttv.top/xttv/27f43e697655f4d44c62d7f4d32fcctv.m3u8
 CCTV-1 综合,http://m.a1.gs/p/migu.php?id=cctv1
 CCTV-1 综合,http://yfsl.vsd.gehua.net.cn/live/CCTV1HD_1200.m3u8
