@@ -11,7 +11,7 @@
     "UserAgent":"MOBILE_UA",
     //请求头Referer参数，如果只是播放页需要，填WebView即可引用播放页的链接作嗅探Referer参数。
     //一般很少用，留空或删除
-    "Referer":"",
+    "Referer":"0",
     //是否开启获取首页数据，0关闭，1开启
     "homeContent":"0",
     //分类链接起始页码,禁止负数和含小数点。
