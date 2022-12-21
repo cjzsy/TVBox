@@ -177,7 +177,7 @@
 		"searchable": 0,
 		"quickSearch": 0,
 		"filterable": 1,
-		"ext": "https://gitlab.com/duomv/duo/-/raw/main/json/pyhuya.py"
+		"ext": "https://github.com/cjzsy/TVBox/raw/main/JS/pyhuya.py"
 	},
   {
     "key":"csp_XYQBiu_虎牙直播",
@@ -187,7 +187,7 @@
     "searchable":0,
     "quickSearch":0,
     "filterable":0,
-    "ext":"https://gitlab.com/duomv/duo/-/raw/main/json/%E8%99%8E%E7%89%99.json"
+    "ext":"https://github.com/cjzsy/TVBox/raw/main/JS/%E8%99%8E%E7%89%99.json"
     },
  {
 		"key": "py_douyu",
@@ -197,7 +197,7 @@
 		"searchable": 0,
 		"quickSearch": 0,
 		"filterable": 1,
-		"ext": "https://gitlab.com/duomv/duo/-/raw/main/json/pydouyu.py"
+		"ext": "https://github.com/cjzsy/TVBox/raw/main/JS/pydouyu.py"
 	},
  {
       "key": "csp_biubiu_斗鱼",
@@ -207,7 +207,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://gitlab.com/duomv/duo/-/raw/main/json/%E6%96%97%E9%B1%BC.json"
+      "ext": "https://github.com/cjzsy/TVBox/raw/main/JS/%E6%96%97%E9%B1%BC.json"
     },
 		{
 			"key": "csp_Anime1",
