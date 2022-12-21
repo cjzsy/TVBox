@@ -56,6 +56,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1
+			"ext":"https://github.com/cjzsy/TVBox/raw/main/MaooXB2/%E6%96%97%E9%B1%BC.json"
 		},
 {"key":"csp_xp_酷奇mv","name":"🎸酷奇MV","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.iqiq.io/liu673cn/box/main/sub/MeowXP/酷奇MV.json"},
 {"key":"csp_QB_17kan","name":"⚽17看球","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.iqiq.io/liu673cn/box/main/sub/ext/17看球.json"},
