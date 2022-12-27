@@ -315,7 +315,7 @@
 			"key": "dr_素白白",
 			"name": "素白影视(道长)",
 			"type": 3,
-			"api": "https://github.com/cjzsy/TVBox/raw/main/lib/drpy.min.js",
+			"api": "https://github.com/cjzsy/TVBox/raw/main/JS/lib/drpy.min.js",
 			"searchable": 2,
 			"quickSearch": 0,
 			"filterable": 0,
@@ -355,18 +355,18 @@
             "key" : "drpy_js_JRKAN直播",
             "name" : "JRKAN直播(道长)",
             "type" : 3,
-            "api" : "https://github.com/cjzsy/TVBox/raw/main/drpy.min.js",
-            "ext" : "https://github.com/cjzsy/TVBox/raw/main/js/JRKAN直播.js"
+            "api" : "https://github.com/cjzsy/TVBox/raw/main/JS/lib/drpy.min.js",
+            "ext" : "https://github.com/cjzsy/TVBox/raw/main/JS/js/JRKAN%E7%9B%B4%E6%92%AD.js"
         },
 		{
 			"key": "dr_310直播",
 			"name": "310直播(道长)",
 			"type": 3,
-			"api": "https://github.com/cjzsy/TVBox/raw/main/drpy.min.js",
+			"api": "https://github.com/cjzsy/TVBox/raw/main/JS/lib/drpy.min.js",
 			"searchable": 0,
 			"quickSearch": 0,
 			"filterable": 0,
-			"ext": "https://github.com/cjzsy/TVBox/raw/main/js/310直播.js"
+			"ext": "https://github.com/cjzsy/TVBox/raw/main/JS/js/310直播.js"
 		},
 		{
 			"key": "dr_抓饭体育",
@@ -376,7 +376,7 @@
 			"searchable": 2,
 			"quickSearch": 0,
 			"filterable": 0,
-			"ext": "https://github.com/cjzsy/TVBox/raw/main/js/抓饭体育.js"
+			"ext": "https://github.com/cjzsy/TVBox/raw/main/JS/js/抓饭体育.js"
 		},
 		
 		{
@@ -744,95 +744,95 @@
 			"key": "dr_星辰",
 			"name": "星辰影视(道长)",
 			"type": 3,
-			"api": "https://github.com/cjzsy/TVBox/raw/main/lib/drpy.min.js",
+			"api": "https://github.com/cjzsy/TVBox/raw/main/JS/lib/drpy.min.js",
 			"searchable": 2,
 			"quickSearch": 0,
 			"filterable": 0,
-			"ext": "https://github.com/cjzsy/TVBox/raw/main/js/星辰.js"
+			"ext": "https://github.com/cjzsy/TVBox/raw/main/JS/js/星辰.js"
 		},
 		{
 			"key": "dr_麦豆com",
 			"name": "麦豆影视(道长)",
 			"type": 3,
-			"api": "https://github.com/cjzsy/TVBox/raw/main/lib/drpy.min.js",
+			"api": "https://github.com/cjzsy/TVBox/raw/main/JS/lib/drpy.min.js",
 			"searchable": 2,
 			"quickSearch": 0,
 			"filterable": 0,
-			"ext": "https://github.com/cjzsy/TVBox/raw/main/js/麦豆com.js"
+			"ext": "https://github.com/cjzsy/TVBox/raw/main/JS/js/麦豆com.js"
 		},
 	
 		{
 			"key": "dr_大师兄影视",
 			"name": "大师兄影视(道长)",
 			"type": 3,
-			"api": "https://github.com/cjzsy/TVBox/raw/main/lib/drpy.min.js",
+			"api": "https://github.com/cjzsy/TVBox/raw/main/JS/lib/drpy.min.js",
 			"searchable": 2,
 			"quickSearch": 0,
 			"filterable": 0,
-			"ext": "https://github.com/cjzsy/TVBox/raw/main/js/大师兄影视.js"
+			"ext": "https://github.com/cjzsy/TVBox/raw/main/JS/js/大师兄影视.js"
 		},
 		{
 			"key": "dr_双十电影",
 			"name": "双十电影(道长)",
 			"type": 3,
-			"api": "https://github.com/cjzsy/TVBox/raw/main/lib/drpy.min.js",
+			"api": "https://github.com/cjzsy/TVBox/raw/main/JS/lib/drpy.min.js",
 			"searchable": 2,
 			"quickSearch": 0,
 			"filterable": 0,
-			"ext": "https://github.com/cjzsy/TVBox/raw/main/js/双十电影.js"
+			"ext": "https://github.com/cjzsy/TVBox/raw/main/JS/js/双十电影.js"
 		},
 		{
 			"key": "dr_来看点播",
 			"name": "来看点播(道长)",
 			"type": 3,
-			"api": "https://github.com/cjzsy/TVBox/raw/main/lib/drpy.min.js",
+			"api": "https://github.com/cjzsy/TVBox/raw/main/JS/lib/drpy.min.js",
 			"searchable": 2,
 			"quickSearch": 0,
 			"filterable": 0,
-			"ext": "https://github.com/cjzsy/TVBox/raw/main/js/来看点播.js"
+			"ext": "https://github.com/cjzsy/TVBox/raw/main/JS/js/来看点播.js"
 		},
 		{
 			"key": "dr_爱迪影视",
 			"name": "爱迪影视(道长)",
 			"type": 3,
-			"api": "https://github.com/cjzsy/TVBox/raw/main/lib/drpy.min.js",
+			"api": "https://github.com/cjzsy/TVBox/raw/main/JS/lib/drpy.min.js",
 			"searchable": 2,
 			"quickSearch": 0,
 			"filterable": 0,
-			"ext": "https://github.com/cjzsy/TVBox/raw/main/js/爱迪影视.js"
+			"ext": "https://github.com/cjzsy/TVBox/raw/main/JS/js/爱迪影视.js"
 		},
 	
 		{
 			"key": "dr_短视频",
 			"name": "小短视频(道长)",
 			"type": 3,
-			"api": "https://github.com/cjzsy/TVBox/raw/main/lib/drpy.min.js",
+			"api": "https://github.com/cjzsy/TVBox/raw/main/JS/lib/drpy.min.js",
 			"searchable": 0,
 			"quickSearch": 0,
 			"filterable": 0,
-			"ext": "https://github.com/cjzsy/TVBox/raw/main/js/短视频.js"
+			"ext": "https://github.com/cjzsy/TVBox/raw/main/JS/js/短视频.js"
 		},
 
 		{
 			"key": "dr_tva云播",
 			"name": "tva云播(道长)",
 			"type": 3,
-			"api": "https://github.com/cjzsy/TVBox/raw/main/lib/drpy.min.js",
+			"api": "https://github.com/cjzsy/TVBox/raw/main/JS/lib/drpy.min.js",
 			"searchable": 2,
 			"quickSearch": 0,
 			"filterable": 0,
-			"ext": "https://github.com/cjzsy/TVBox/raw/main/js/TV云播.js"
+			"ext": "https://github.com/cjzsy/TVBox/raw/main/JS/js/TV云播.js"
 		},
 
 		{
 			"key": "dr_四个圈影视",
 			"name": "四个圈影视(道长)",
 			"type": 3,
-			"api": "https://github.com/cjzsy/TVBox/raw/main/lib/drpy.min.js",
+			"api": "https://github.com/cjzsy/TVBox/raw/main/JS/lib/drpy.min.js",
 			"searchable": 2,
 			"quickSearch": 0,
 			"filterable": 0,
-			"ext": "https://github.com/cjzsy/TVBox/raw/main/js/四个圈影视.js"
+			"ext": "https://github.com/cjzsy/TVBox/raw/main/JS/js/四个圈影视.js"
 		}
 	],
 	"parses": [{
