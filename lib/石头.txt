@@ -1,8 +1,5 @@
 {
-<<<<<<< HEAD
 	"spider": "https://ghproxy.com/https://github.com/cjzsy/TVBox/blob/main/jar/xzy1029.jar",
-
->>>>>>> 6c17c36da77f08b48ef29da133377c01c86067d1
 	"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 	"lives": [{
 		"group": "redirect",
