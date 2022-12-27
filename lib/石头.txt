@@ -356,7 +356,7 @@
             "name" : "JRKAN直播(道长)",
             "type" : 3,
             "api" : "https://ghproxy.com/https://github.com/cjzsy/TVBox/raw/main/lib/drpy.min.js",
-            "ext" : "https://ghproxy.com/https://github.com/cjzsy/TVBox/raw/main/JS/js/JRKAN%E7%9B%B4%E6%92%AD.js"
+            "ext" : "https://ghproxy.com/https://github.com/cjzsy/TVBox/raw/main/MaooXP/JRS%E7%9C%8B%E7%90%83.json"
         },
 		{
 			"key": "dr_310直播",
