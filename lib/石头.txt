@@ -8,13 +8,7 @@
 			"urls": [
 				"proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vY2p6c3kvVFZCb3gvbWFpbi90di9saXZlLnR4dA=="]}]}],
 	"sites": [
-		{
-		"key" : "drpy_T4聚合",
-		"name" : "影视推荐(首页)",
-		"type" : 3,
-		"api" : "https://ghproxy.com/https://github.com/cjzsy/TVBox/raw/main/lib/drpy2.min.js",
-		"ext":"https://ghproxy.com/https://github.com/cjzsy/TVBox/raw/main/JS/js/drpy.js"
-		},
+		{"key" : "drpy_T4聚合","name" : "影视推荐(首页)","type" : 3,"api" : "https://ghproxy.com/https://github.com/cjzsy/TVBox/raw/main/lib/drpy2.min.js","ext":"https://ghproxy.com/https://github.com/cjzsy/TVBox/raw/main/JS/js/drpy.js"},
 		{
 			"key": "Gitcafe",
 			"name": "小纸条源(网盘)",
