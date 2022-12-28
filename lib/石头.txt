@@ -1,5 +1,5 @@
 {
-	"spider": "https://github.com/cjzsy/TVBox/blob/main/jar/xzy1029.jar",
+	"spider": "https://ghproxy.com/https://github.com/cjzsy/TVBox/blob/main/jar/xzy1029.jar",
 	"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 	"lives": [{
 		"group": "redirect",
@@ -390,7 +390,7 @@
 			"searchable": 1,
 			"quickSearch": 0,
 			"filterable": 0,
-			"ext": "米奇妙妙屋$https://anime.mqmmw.ga#9T(Adult)$https://drive.9t.ee#帅盘$https://hi.shuaipeng.wang#资源小站$https://pan.142856.xyz#晴园$https://alist.52qy.repl.co#菊花盘$https://pan.142856.xyz#小江$https://dyj.me#触光$https://pan.ichuguang.com#好汉吧$https://8023.haohanba.cn#轻弹浅唱$https://g.xiang.lol#神器云$https://quanzi.laoxianghuijia.cn#小雅合集$http://alist.xiaoya.pro#"
+			"ext": "米奇妙妙屋$https://anime.mqmmw.ga#9T(Adult)$https://drive.9t.ee#帅盘$https://hi.shuaipeng.wang#资源小站$https://pan.142856.xyz#晴园$https://alist.52qy.repl.co#菊花盘$https://pan.142856.xyz#小江$https://dyj.me#触光$https://pan.ichuguang.com#好汉吧$https://8023.haohanba.cn#轻弹浅唱$https://g.xiang.lol#神器云$https://quanzi.laoxianghuijia.cn#小雅合集$http://alist.xiaoya.pro"
 		},
 
 {"key":"Yisou","name":"易搜(搜索)","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":0,"ext": "","jar": "https://ghproxy.com/https://github.com/cjzsy/TVBox/raw/main/jar/top98.jar"},
