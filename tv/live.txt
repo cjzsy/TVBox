@@ -2,6 +2,7 @@
 
 🇨🇳｜央视频道,#genre#
 
+CCTV-1 综合,http://wabc.ml/sxg.php?id=CCTV-1H265_4000
 CCTV-1 综合,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225618/index.m3u8
 CCTV-1 综合,http://a.xttv.top/xttv/27f43e697655f4d44c62d7f4d32fcctv.m3u8
 CCTV-1 综合,http://m.a1.gs/p/migu.php?id=cctv1
@@ -14,6 +15,7 @@ CCTV-1 综合,http://117.169.120.242:8080/wh7f454c46tw1490432856_1716888660/hwrr
 CCTV-1 综合,http://39.134.32.108:6610/270000001111/1110000301/index.m3u8?IASHttpSessionId=OTT$超清1080P
 CCTV-1 综合,http://39.134.32.102:6610/270000001111/1110000301/index.m3u8?IASHttpSessionId=OTT$超清1080P
 CCTV-1 综合,http://39.134.32.108:6610/270000001111/1110000301/index.m3u8?IASHttpSessionId=OTT
+
 
 CCTV-2 财经,http://cm.wshls.homecdn.com/live/11ecc.m3u8
 CCTV-2 财经,http://183.207.255.207/live/program/live/cctv2/1300000/mnf.m3u8
@@ -284,24 +286,7 @@ CCTV怀旧剧场高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/hjjcHD/_
 CCTV第一剧场高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/diyijuchangHD/__op/default/__f//index.m3u8
 CCTV兵器科技高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/bqkjHD/__op/default/__f//index.m3u8
 
-CCTV-01，http://192.168.50.1:8080/rtp/239.3.1.129:8008
-CCTV-02，http://192.168.50.1:8080/rtp/239.3.1.60:8084
-CCTV-03，http://192.168.50.1:8080/rtp/239.3.1.172:8001
-CCTV-04，http://192.168.50.1:8080/rtp/239.3.1.105:8092
-CCTV-05，http://192.168.50.1:8080/rtp/239.3.1.173:8001
-CCTV-06，http://192.168.50.1:8080/rtp/239.3.1.174:8001
-CCTV-07，http://192.168.50.1:8080/rtp/239.3.1.61:8104
-CCTV-08，http://192.168.50.1:8080/rtp/239.3.1.175:8001 
-CCTV-09，http://192.168.50.1:8080/rtp/239.3.1.62:8112
-CCTV-10，http://192.168.50.1:8080/rtp/239.3.1.63:8116
-CCTV-11，http://192.168.50.1:8080/rtp/239.3.1.152:8120
-CCTV-12，http://192.168.50.1:8080/rtp/239.3.1.64:8124
-CCTV-13，http://192.168.50.1:8080/rtp/239.3.1.124:8128
-CCTV-14，http://192.168.50.1:8080/rtp/239.3.1.65:8132
-CCTV-15，http://192.168.50.1:8080/rtp/239.3.1.153:8136
-CCTV-16，http://192.168.50.1:8080/rtp/239.3.1.184:8001
-CCTV-17，http://192.168.50.1:8080/rtp/239.3.1.151:8144
-CCTV-5+，http://192.168.50.1:8080/rtp/239.3.1.130:8004
+
 
 🇨🇳｜港澳台,#genre#
 凤凰资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
